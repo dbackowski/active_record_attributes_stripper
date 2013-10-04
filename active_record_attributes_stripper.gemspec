@@ -7,6 +7,7 @@ Gem::Specification.new do |gem|
   gem.description   = %q{Active Record attributes stripper}
   gem.summary       = %q{Automatically strip all string attributes in model before validation.}
   gem.homepage      = "https://github.com/dbackowski/active_record_attributes_stripper"
+  gem.license 	    = 'MIT'
 
   gem.executables   = `git ls-files -- bin/*`.split("\n").map{ |f| File.basename(f) }
   gem.files         = `git ls-files`.split("\n")
