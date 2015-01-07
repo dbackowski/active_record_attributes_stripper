@@ -2,7 +2,7 @@
 require File.expand_path('../lib/active_record_attributes_stripper/version', __FILE__)
 
 Gem::Specification.new do |gem|
-  gem.authors       = ["Damian Ba\304\207kowski"]
+  gem.authors       = ["Damian Baćkowski"]
   gem.email         = ["damianbackowski@gmail.com"]
   gem.description   = %q{Active Record attributes stripper}
   gem.summary       = %q{Automatically strip all string attributes in model before validation.}

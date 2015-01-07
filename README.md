@@ -6,14 +6,20 @@ Automatically strip all string attributes in model before validation.
 
 Add this line to your application's Gemfile:
 
-  gem 'active_record_attributes_stripper'
+    gem 'active_record_attributes_stripper'
 
 And then execute:
 
-  $ bundle
+    $ bundle
 
 Or install it yourself as:
 
-  $ gem install active_record_attributes_stripper
+    $ gem install active_record_attributes_stripper
 
-Copyright (c) 2013 [Damian Baćkowski], released under the MIT license
+## Contributing
+
+1. Fork it
+2. Create your feature branch (`git checkout -b my-new-feature`)
+3. Commit your changes (`git commit -am 'Add some feature'`)
+4. Push to the branch (`git push origin my-new-feature`)
+5. Create a new Pull Request
